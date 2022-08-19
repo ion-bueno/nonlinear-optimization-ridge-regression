@@ -14,4 +14,4 @@ In order to clarify the elements and dimensions of the problem, if there are $n$
 * Regression coefficients: $\underset{((k+1)x1)}{\beta}$
 * Regression error: $\underset{(nx1)}{\epsilon}$
 
-Different nonlinar optimization algorithms can be applied for this purpose.
+Different nonlinear optimization algorithms can be applied for this purpose.
